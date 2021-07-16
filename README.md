@@ -54,7 +54,7 @@ The data lake solution is developed with Node.js for the microservices that run 
 Clone the aws-data-lake-solution GitHub repository:
 
 ```
-git clone https://github.com/awslabs/aws-data-lake-solution.git
+git clone https://github.com/aws-samples/aws-data-lake-solution-cn.git
 ```
 
 #### 03. Declare enviroment variables:
